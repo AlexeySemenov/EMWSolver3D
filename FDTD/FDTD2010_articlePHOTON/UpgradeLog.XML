@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FDTD2011">
+</Property><Property Name="Solution File" Value="C:\Users\alexey\Documents\Visual Studio 2008\Projects\FDTD2010_articlePHOTON\FDTD2011.sln">
+</Property><Property Name="User Options File" Value="C:\Users\alexey\Documents\Visual Studio 2008\Projects\FDTD2010_articlePHOTON\FDTD2011.suo">
+</Property><Property Name="Date" Value="3 февраля 2013 г.">
+</Property><Property Name="Time" Value="10:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FDTD2011.sln" Description="File successfully backed up as C:\Users\alexey\Documents\Visual Studio 2008\Projects\FDTD2010_articlePHOTON\FDTD2011.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="FDTD2011.suo" Description="File successfully backed up as C:\Users\alexey\Documents\Visual Studio 2008\Projects\FDTD2010_articlePHOTON\FDTD2011.suo.old">
+</Event><Event ErrorLevel="0" Project="FDTD2009" Source="FDTD2009\FDTD2009.vcproj" Description="Converting project file 'C:\Users\alexey\Documents\Visual Studio 2008\Projects\FDTD2010_articlePHOTON\FDTD2009\FDTD2009.vcproj'.">
+</Event><Event ErrorLevel="1" Project="FDTD2009" Source="FDTD2009\FDTD2009.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="FDTD2009" Source="FDTD2009\FDTD2009.vcproj" Description="Done converting to new project file 'C:\Users\alexey\Documents\Visual Studio 2008\Projects\FDTD2010_articlePHOTON\FDTD2009\FDTD2009.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="FDTD2009" Source="FDTD2009\FDTD2009.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FDTD2011.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FDTD2011.sln" Description="Converted">
+</Event></UpgradeLog>

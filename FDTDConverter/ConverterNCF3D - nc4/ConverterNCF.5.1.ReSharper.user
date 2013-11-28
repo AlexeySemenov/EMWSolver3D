@@ -1,0 +1,50 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="3005" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="1302" fromTop="32" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="803" fromTop="18" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="866" fromTop="18" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="1189" fromTop="19" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="1528" fromTop="28" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="1581" fromTop="25" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="1770" fromTop="32" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="1758" fromTop="31" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="1800" fromTop="34" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="2091" fromTop="27" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="2943" fromTop="35" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="3747" fromTop="42" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="4132" fromTop="41" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="4305" fromTop="34" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="4894" fromTop="35" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="2212" fromTop="22" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="5778" fromTop="28" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="6285" fromTop="33" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="6251" fromTop="34" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="6063" fromTop="18" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="6281" fromTop="31" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="5241" fromTop="21" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="6285" fromTop="16" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="6285" fromTop="25" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="6285" fromTop="31" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="6285" fromTop="22" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="6263" fromTop="22" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="6263" fromTop="22" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="740" fromTop="16" />
+      <File id="5D64C30C-6C1C-4661-A4CD-77E34538C345/f:ConverterNCF.cpp" caret="2411" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
